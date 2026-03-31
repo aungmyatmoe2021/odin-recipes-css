@@ -2,6 +2,9 @@
     outline: 1px solid red;
 } */
 
+* {
+    max-height: 100vh;
+}
 body {
     font-family: 'Courier New', Courier, monospace;
     height: 100vh;
